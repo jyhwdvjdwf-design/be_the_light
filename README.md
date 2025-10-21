@@ -1,5 +1,4 @@
 # bethelight
-[deepseek_html_20251021_915483.html](https://github.com/user-attachments/files/23022196/deepseek_html_20251021_915483.html)
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
